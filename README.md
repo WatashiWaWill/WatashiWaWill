@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WatashiWaWill, also known as WillWasHere
+- 🧐 I'm interested in Raspberry Pis, C programming and math
+- 🌱 I’m currently learning C, and the more I learn it the more I fall in love with it
+- 💞️ I’m looking to collaborate on many different types of projects and share my ideas, even just as a suggestion
